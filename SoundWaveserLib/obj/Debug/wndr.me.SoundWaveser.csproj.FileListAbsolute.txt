@@ -1,0 +1,4 @@
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserLib\bin\Debug\wndr.me.SoundWaveser.dll
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserLib\bin\Debug\wndr.me.SoundWaveser.pdb
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserLib\obj\Debug\wndr.me.SoundWaveser.dll
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserLib\obj\Debug\wndr.me.SoundWaveser.pdb

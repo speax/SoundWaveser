@@ -1,0 +1,13 @@
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\obj\Debug\SoundWaveserWinFormTester.csprojResolveAssemblyReference.cache
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\obj\Debug\SoundWaveserWinFormTester.SoundWaveserWinFormTester.resources
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\obj\Debug\SoundWaves.Properties.Resources.resources
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\obj\Debug\SoundWaveserWinFormTester.csproj.GenerateResource.Cache
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\bin\Debug\Audio\audio.mp3
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\bin\Debug\Audio\audio.wav
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\bin\Debug\SoundWaves.exe.config
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\bin\Debug\SoundWaves.exe
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\bin\Debug\SoundWaves.pdb
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\bin\Debug\wndr.me.SoundWaveser.dll
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\bin\Debug\wndr.me.SoundWaveser.pdb
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\obj\Debug\SoundWaves.exe
+C:\Users\gabib_000\Desktop\SoundWaveser\SoundWaveserWinFormTester\obj\Debug\SoundWaves.pdb
